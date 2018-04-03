@@ -59,6 +59,7 @@ a.navbar-brand {
     height:  100%;
     width:  100%;
     background:  #e9585f;
+    position: relative;
 }
 
 body,html {
@@ -76,4 +77,14 @@ body,html {
 .navbar-default {
     background-color: #fff;
     border-color: #fff;
+}
+
+.khoitt1:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background: #e4555b;
 }
