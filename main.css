@@ -21,3 +21,35 @@ li.nav-item {
     padding:  0;
     margin: 0 17px;
 }
+
+@media all and (max-width: 570px) {
+    * {}
+
+a.navbar-brand {
+    float:  left;
+}
+
+a.nav-link {
+    float: left;
+    line-height: 0px!important;
+    display: inline!important;
+}
+
+img {
+    display:  block;
+    width: 102px;
+    margin: 0 auto;
+    right: 0;
+}
+
+
+ul.nav.navbar-nav {}
+
+ul.nav.navbar-nav {
+    float: none;
+}
+}
+
+a.navbar-brand {
+    padding:  0;
+}
