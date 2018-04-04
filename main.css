@@ -126,3 +126,46 @@ a.nuthire.btn.btn-primary {
     border: 5px;
     border-radius: 5px;
 }
+
+.tieudeto {
+    margin-top: 120px;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+h2.tieudecap2 {
+    font-weight: normal;
+    font-family: segoe ui light;
+}
+
+span.hoc {
+    font-weight: bold;
+    font-family: segoe ui;
+    text-transform: uppercase;
+}
+
+.khoittnho h3.tieudecap3 {
+    font-size: 16px;
+    color: #e35855;
+    margin-bottom: 20px;
+}
+
+span.motaquatrinh {
+    margin-bottom: 16px;
+    font-size: 14px;
+    display: block;
+}
+
+.khoittnho p {
+    font-size: 13px;
+    line-height: 20px;
+    color: #a8a5a5;
+}
+
+.khoittnho {
+    margin-bottom: 55px;
+}
+
+img.img-fluid {
+    width: 100%;
+}
