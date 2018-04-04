@@ -30,6 +30,27 @@ li.nav-item {
 
 @media all and (max-width: 570px) {
     * {}
+    h2.tieudecap2.text-left.text-xs-center {
+        text-align: center;
+    }
+    span.hoc {
+        text-align: center;
+    }
+    p {
+        text-align: center;
+        /* display:  block; */
+    }
+    span.motaquatrinh {
+        text-align: center;
+    }
+    text {}
+    span.motaquatrinh {}
+    h3.tieudecap3 {
+        text-align: center;
+    }
+    h2.tieudecap2.text-right.text-xs-center {
+        text-align: center;
+    }
     .tt img {
         margin-top: 36px;
     }
